@@ -3,6 +3,9 @@ using AbstractFactory.Product;
 
 namespace AbstractFactory
 {
+    /// <summary>
+    /// The main goal of the client is to contact with abstract facotry
+    /// </summary>
     class Client
     {
         ICar car;
