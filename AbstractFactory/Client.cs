@@ -18,7 +18,7 @@ namespace AbstractFactory
         {
             get
             {
-                return car.GetCompanyName;
+                return car.GetCompanyName; 
             }
         }
         public string FounderName
