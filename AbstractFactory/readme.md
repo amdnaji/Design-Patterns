@@ -1,5 +1,5 @@
 # Definition
-Provide a way to create a set of related objects with no need to specifying  there concerate class.
+Provide a way to create a set of related objects with no need to specifying their concrete class.
 ## Category
 Creational Patterns  
 ## UML diagram
