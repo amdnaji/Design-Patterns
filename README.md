@@ -15,7 +15,12 @@ Once you open the project using Visual Studio you will find the following struct
 * Fork the Project
 * Add readme.md to describe  the pattern
 * Add UML class digram.
-* Create a pull request
+* Create a pull request  
+
+### References 
+* https://en.wikipedia.org/wiki/Software_design_pattern
+* https://sourcemaking.com/design_patterns
+* http://www.dofactory.com/net/abstract-factory-design-pattern
 
 
 
