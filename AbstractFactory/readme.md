@@ -3,7 +3,7 @@ Provide a way to create a set of related objects with no need to specifying thei
 ## Category
 Creational Patterns  
 ## UML diagram
-![UML] (https://github.com/amdnaji/Design-Patterns/blob/master/AbstractFactory/classDiagram.PNG)
+![UML] (https://github.com/amdnaji/Design-Patterns/blob/master/AbstractFactory/UML/classDiagram.PNG)
 ## When to use it
 * The system needs to be independent from the way the products it works with are created.
 * The system is or should be configured to work with multiple families of products.
