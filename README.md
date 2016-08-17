@@ -1,6 +1,6 @@
 ##  Design Patterns for .Net developers
 ###Introduction 
-Design patterns commonly used to provide a reusable solutions for common problems.Design patterns will help you to avoid the errors that can happen while designing the software,e.g. eliminate the repetition by providing a set of reusable objects.  In this project we will trying to focus on how to implement different design patters through C#.
+Design patterns commonly used to provide a reusable solutions for common problems.Design patterns will help you to avoid the errors that can happen while designing the software,e.g. eliminate the repetition by providing a set of reusable objects.  In this project we will trying to focus on how to implement different design patterns through C#.
 ### Getting Started
 Once you open the project using Visual Studio you will find the following structure  
 * Creational Patterns  
